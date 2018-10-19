@@ -1,5 +1,5 @@
 package pkg
 
 func Version() string {
-	return "pkg v1.0.0"
+	return "pkg v1.1.0"
 }
